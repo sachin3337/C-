@@ -2,7 +2,8 @@
 //function => named block of code(set of instructions) 
 
 // 1. function declaration/ forward declaration(returnType functionName(formalArguments))
-     int add(int num1, int num2);
+     int add(int num1, int num2); // decleration only not error
+     
 
 // 2. function definition (returnType functionName(formalArguments){logic/code})
      //       10       20 
