@@ -1,20 +1,20 @@
 #include<stdio.h>
 // call by value 
 
-//call by value
-//          //   10 ,       20
-// int sumpro(int n1 , int  n2) 
-// {
-//     int sum = n1+ n2;
-//      //       10 + 20 => 30
-//     int pro= n1*n2;
-//              //10*20 => 200
+// call by value
+         //   10 ,       20
+int sumpro(int n1 , int  n2) 
+{
+    int sum = n1+ n2;
+     //       10 + 20 => 30
+    int pro= n1*n2;
+             //10*20 => 200
 
-//     return sum, pro;
-//     //Note:- we can not return the multiple values from the body of function
-//     //at a time
+    return pro , sum;
+    //Note:- we can not return the multiple values from the body of function
+    //at a time
 
-// }
+}
 
 
 int main()

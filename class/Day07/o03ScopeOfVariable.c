@@ -1,9 +1,9 @@
 #include<stdio.h>
 //storage classes
 
-// register int n1; // not ok// global declaration of register storage class 
-//variable is not allowed 
-int num3;    //storage class => global 
+// register int n1; // not ok // global declaration of register storage class 
+// variable is not allowed 
+int num3;    // storage class => global 
              // storage=> data section
              // default value => zero (0)
              // life span => program level
