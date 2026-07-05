@@ -12,7 +12,7 @@ int main(){
     num1 = 120; // assignment
     printf("\n num1= %d", num1);
 
-    int res = printf("sachin"); // sachin => 6 char
+    int res = printf("\nsachin"); // sachin => 6 char
     printf("\n %d", res); //  6
 
 

@@ -48,10 +48,10 @@ int main()
         printf("\n current pos of file pointer =%d \n", ftell(fptr)); //4
 
         char c=getc(fptr);
-        printf("\n c=%c",c ); // 'e'
+        printf("\n c=%c",c ); // 'e' 
         printf("\n current pos of file pointer =%d \n", ftell(fptr)); //5
 
-
+        
 
     }
     // 4. close the file

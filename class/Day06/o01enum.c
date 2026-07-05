@@ -16,7 +16,7 @@
 //          //1   , 2  ,  3 ,  1  ,  2 ,   3 ,  4
 
 // enum week{Sun=-1, Mon, Tue, Wed=-10, Thus, Fri, Sat};
-//          //1   , 2  ,  3 ,  4  ,  5 ,  6 ,  7
+
 
 // enum week{Sun=1, Mon, Tue, Wed, Thus, Fri, Sat};
 //          //1   , 2  ,  3 ,  4  ,  5 ,  6 ,  7

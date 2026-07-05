@@ -10,8 +10,7 @@ int main()
     
     void * vptr;  //void pointer
     vptr=&num1;// void pointer vptr is holding an address of num1
-    // printf("\n value at vptr=%d", *vptr);//not ok as you can not derefer the void pointer
-    //directly
+    // printf("\n value at vptr=%d", *vptr);//not ok as you can not derefer the void pointer directly
     printf("\n value at vptr =%d", *(int *)vptr); ////ok//10 => 1. we have converted the void pointer into int pointer and then derefered
     //it
 }
